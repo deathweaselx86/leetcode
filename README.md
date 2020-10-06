@@ -1,2 +1,2 @@
 # leetcode
-LEETCODE 
+Leetcode sync repository
